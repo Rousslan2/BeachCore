@@ -1,4 +1,4 @@
-# BeachCore
+# BeachCore ![K](https://img.shields.io/badge/Kotlin-5A17EB?style=flat&logo=kotlin&logoColor=white) ![J](https://img.shields.io/badge/OpenJdk_21-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![S](Console-screenshot.png)
 
 A Kotlin-based emulation of the `libg.so` core library from SuperCell's Boom Beach game. This project aims to recreate the core game logic and functionality for educational and research purposes.
